@@ -1,0 +1,52 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	false
+
+# Permalinks
+permalink:	/text/:title
+
+# Setup
+title:		Мазлумян
+tagline:	'Текстохранилище'
+description:	'Текстохранилище'
+url:		http://mazlumyan.ru
+
+author:
+  name:		'Мазлумян'
+  url:		https://vk.com/tema_mazlumyan
+
+paginate:	8
+
+# Custom vars
+icon:		/assets/images/teschalogo.png
+cover:		/assets/images/skycover3.jpg
+
+social:
+  - icon: vk
+    url:  https://vk.com/tema_mazlumyan
+    desc: Вконтакте
+
+  - icon: instagram
+    url:  http://instagram.com/tema_mazlumyan/
+    desc: Инстаграм    
+
+  - icon:	twitter
+    url:	https://twitter.com/tema_mazlumyan
+    desc:	Твиттер
+
+  - icon:	rss
+    url:	http://camporez.com/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	В самое начало
+    url:	/
+
+  - title: Здесь ничего нет
+    url: /404.html  
+    
+copyright:
+  author:	Мазлумян
+  url:		http://mazlumyan.ru
+  type_title:	Все тексты сам писал, отвечаю.
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
