@@ -1,8 +1,9 @@
 ---
+title: university_draft
+date: 2015-02-10 00:00:00 Z
 layout: post
-title: "university_draft"
 quote: На самом деле мне двадцать, и я распиздяй
-image: /media/universitydraft.jpg
+image: "/media/universitydraft.jpg"
 video: false
 ---
 

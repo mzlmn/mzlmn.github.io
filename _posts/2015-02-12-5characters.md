@@ -1,8 +1,9 @@
 ---
+title: Об одной ночи и пяти персонажах
+date: 2015-02-12 00:00:00 Z
 layout: post
-title: "Об одной ночи и пяти персонажах"
 quote: В отчаянии залез в IRC и на привате отловил своего духовного гуру.
-image: /media/5characters.jpg
+image: "/media/5characters.jpg"
 video: false
 ---
 
