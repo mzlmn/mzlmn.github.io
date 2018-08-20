@@ -13,25 +13,25 @@ pygments: false
 permalink: "/text/:title"
 tagline: Текстохранилище
 description: Текстохранилище
-url: http://mazlumyan.ru
+url: http://mazlumyan.github.io
 author:
   name: Мазлумян
-  url: https://vk.com/tema_mazlumyan
+  url: https://vk.com/mzlmn
 paginate: 8
 icon: "/assets/images/teschalogo.png"
 cover: "/assets/images/skycover3.jpg"
 social:
 - icon: vk
-  url: https://vk.com/tema_mazlumyan
+  url: https://vk.com/mzlmn
   desc: Вконтакте
 - icon: instagram
-  url: http://instagram.com/tema_mazlumyan/
+  url: http://instagram.com/mazlumyanartyom/
   desc: Инстаграм
 - icon: twitter
   url: https://twitter.com/tema_mazlumyan
   desc: Твиттер
 - icon: rss
-  url: http://mazlumyan.ru/atom.xml
+  url: http://mzlmn.github.io/atom.xml
   desc: Subscribe to my feed
 menu:
 - title: В самое начало
@@ -40,6 +40,6 @@ menu:
   url: "/404.html"
 copyright:
   author: Мазлумян
-  url: http://mazlumyan.ru
+  url: http://mzlmn.github.io
   type_title: Все тексты сам писал, отвечаю.
   type_url: http://creativecommons.org/licenses/by-nc/2.5
